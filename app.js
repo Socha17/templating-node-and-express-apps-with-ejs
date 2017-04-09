@@ -1,6 +1,7 @@
 // require and instantiate express
 const app = require('express')()
 
+
 // fake posts to simulate a database
 const posts = [
   {
